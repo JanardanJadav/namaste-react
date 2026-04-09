@@ -1,0 +1,18 @@
+#heading{
+    color: red;
+    background: yellow;
+}
+#parent_div{
+    background: #000;
+}
+/* #child_div{
+    background: #c6bdbd;
+} */
+ #sub1_child{
+    color: antiquewhite;
+ }
+#sub2_child{
+    color: rgb(146, 225, 159);
+ }
+
+ 
